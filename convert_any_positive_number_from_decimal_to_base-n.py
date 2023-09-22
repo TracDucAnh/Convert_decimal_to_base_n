@@ -28,7 +28,7 @@ def check_if_base_16(num):
             return 'D'
         elif (num == 14):
             return 'E'
-        elif (num == 16):
+        elif (num == 15):
             return 'F'
         else:
             return num
